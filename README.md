@@ -1,0 +1,2 @@
+# Revenue-Insights-in-Hospitality-Domain-Business-Analysis-using-Power-BI-Excel
+🏨 Revenue Insights in Hospitality Domain 📊 Business Analysis using Power BI &amp; Excel  This project provides a comprehensive revenue analysis for the hospitality industry using Power BI and Excel. It helps identify key performance metrics, booking trends, and revenue opportunities to support data-driven business decisions.
