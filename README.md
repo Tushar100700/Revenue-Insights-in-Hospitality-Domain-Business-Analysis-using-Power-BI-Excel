@@ -35,5 +35,5 @@ Improved revenue forecasting accuracy.
 Clear visibility into top-performing properties & booking channels.
 
 📸 Dashboard Preview
-<img src="images/dashboard_preview.png" alt="Dashboard Preview" width="600">
+<img src="https://github.com/Tushar100700/Revenue-Insights-in-Hospitality-Domain-Business-Analysis-using-Power-BI-Excel/blob/main/Screenshot%202025-09-18%20155745.png">
 
