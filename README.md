@@ -35,4 +35,5 @@ Improved revenue forecasting accuracy.
 Clear visibility into top-performing properties & booking channels.
 
 📸 Dashboard Preview
+<img src="images/dashboard_preview.png" alt="Dashboard Preview" width="600">
 
